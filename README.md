@@ -4,8 +4,6 @@
 
 اذهب إلى خانة [النقاشات](https://github.com/Yemeni-Open-Source/introduce-yourself/discussions) للتعريف بنفسك وتخبرنا بما أنجزت.
 
-Go to [Discussions](https://github.com/Yemeni-Open-Source/introduce-yourself/discussions) to tell us a little bit about you and what you have done.
-
 </div>
 
 # Introduce Yourself

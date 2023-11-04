@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 <div dir="rtl">
 <h1>عرّفنا بنفسك</h1>
 هنا نعرف بعضنا البعض  ونعرّف بأنفسنا!
